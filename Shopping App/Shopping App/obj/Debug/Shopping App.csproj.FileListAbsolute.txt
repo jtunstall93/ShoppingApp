@@ -1,0 +1,24 @@
+C:\Users\Jess\source\repos\Shopping App\Shopping App\bin\Debug\Shopping App.exe.config
+C:\Users\Jess\source\repos\Shopping App\Shopping App\bin\Debug\Shopping App.exe
+C:\Users\Jess\source\repos\Shopping App\Shopping App\bin\Debug\Shopping App.pdb
+C:\Users\Jess\source\repos\Shopping App\Shopping App\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jess\source\repos\Shopping App\Shopping App\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jess\source\repos\Shopping App\Shopping App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jess\source\repos\Shopping App\Shopping App\bin\Debug\RestSharp.dll
+C:\Users\Jess\source\repos\Shopping App\Shopping App\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jess\source\repos\Shopping App\Shopping App\bin\Debug\Twilio.dll
+C:\Users\Jess\source\repos\Shopping App\Shopping App\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Jess\source\repos\Shopping App\Shopping App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jess\source\repos\Shopping App\Shopping App\bin\Debug\RestSharp.xml
+C:\Users\Jess\source\repos\Shopping App\Shopping App\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Jess\source\repos\Shopping App\Shopping App\bin\Debug\Twilio.xml
+C:\Users\Jess\source\repos\Shopping App\Shopping App\obj\Debug\Shopping_App.PrimaryWIndow.resources
+C:\Users\Jess\source\repos\Shopping App\Shopping App\obj\Debug\Shopping_App.NewList_Window.resources
+C:\Users\Jess\source\repos\Shopping App\Shopping App\obj\Debug\Shopping_App.EditList_Window.resources
+C:\Users\Jess\source\repos\Shopping App\Shopping App\obj\Debug\Shopping_App.TextMessage_Window.resources
+C:\Users\Jess\source\repos\Shopping App\Shopping App\obj\Debug\Shopping_App.Properties.Resources.resources
+C:\Users\Jess\source\repos\Shopping App\Shopping App\obj\Debug\Shopping App.csproj.GenerateResource.cache
+C:\Users\Jess\source\repos\Shopping App\Shopping App\obj\Debug\Shopping App.csproj.CoreCompileInputs.cache
+C:\Users\Jess\source\repos\Shopping App\Shopping App\obj\Debug\Shopping App.csproj.CopyComplete
+C:\Users\Jess\source\repos\Shopping App\Shopping App\obj\Debug\Shopping App.exe
+C:\Users\Jess\source\repos\Shopping App\Shopping App\obj\Debug\Shopping App.pdb

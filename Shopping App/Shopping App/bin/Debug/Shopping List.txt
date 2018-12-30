@@ -1,0 +1,16 @@
+Shopping List
+Milk
+2.49
+Sam's Club
+2
+6
+Chicken Nuggets
+11.49
+Sam's Club
+2
+4
+Pizza
+3.24
+Wal-Mart
+2
+6
