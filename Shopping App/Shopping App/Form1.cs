@@ -159,22 +159,22 @@ namespace Shopping_App
 			PrintDocument pd = new PrintDocument();
 			PrintPreviewDialog ppd = new PrintPreviewDialog();
 			pd.PrintPage += new PrintPageEventHandler(this.PrintTextFileHandler);
-			//pd.Print();
-			#region Print Preview
-			string docName = "BuyList.txt";
-			string documentContents = "";
-			string stringToPrint = "";
-
-			pd.DocumentName = docName;
-			using (FileStream stream = new FileStream(listPath, FileMode.Open))
-			using (StreamReader reader = new StreamReader(stream))
-			{
-				documentContents = reader.ReadToEnd();
-			}
-			stringToPrint = documentContents;
-
-			ppd.Document = pd;
-			ppd.ShowDialog();
+			pd.Print();
+			#region Print Preview Options
+			//string docName = "BuyList.txt";
+			//string documentContents = "";
+			//string stringToPrint = "";
+			//
+			//pd.DocumentName = docName;
+			//using (FileStream stream = new FileStream(listPath, FileMode.Open))
+			//using (StreamReader reader = new StreamReader(stream))
+			//{
+			//	documentContents = reader.ReadToEnd();
+			//}
+			//stringToPrint = documentContents;
+			//
+			//ppd.Document = pd;
+			//ppd.ShowDialog();
 			#endregion
 		}
 
@@ -189,7 +189,7 @@ namespace Shopping_App
 
 			StreamReader reader = new StreamReader(listPath);
 			//Proper formatting requires a monospaced font like the one being used
-			Font font = new Font("Courier New", 12.0f);
+			Font font = new Font("Courier New", 16.0f);
 			StringFormat drawFormat = new StringFormat();
 
 			//Get the Graphics object  
