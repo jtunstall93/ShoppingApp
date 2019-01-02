@@ -16,8 +16,8 @@ namespace Shopping_App
 	{
 		DataTypes.ContactList cList = new DataTypes.ContactList();
 		bool editContact = false;
-		//string twilioSID = "AC17c581d810e427fa867fddf13d97ef25";
-		//string twilioAuthToken = "d30cbe7c770fd2847b5aa13d4f9580cf";
+		//string twilioSID = "(Twilio-generated SID)";
+		//string twilioAuthToken = "(Twilio-generated Auth token)";
 
 		public TextMessage_Window()
 		{
@@ -137,7 +137,7 @@ namespace Shopping_App
 			
 			//MessageResource message = MessageResource.Create(
 			//	body: "This is a test.",									// The message you want to send
-			//	from: new Twilio.Types.PhoneNumber("+12176365148"),			// This needs to be your Twilio user-generated phone number.
+			//	from: new Twilio.Types.PhoneNumber("+1(Twilio number)"),			// This needs to be your Twilio user-generated phone number.
 			//	to: new Twilio.Types.PhoneNumber("+" + cList.GetContacts()[ContactListBox.SelectedIndex].GetContactNumber())
 			//	);
 
