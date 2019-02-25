@@ -9,17 +9,18 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 using System.Drawing.Printing;
-using Twilio;
+//using Twilio;
+
 
 
 namespace Shopping_App
 {
 	public partial class PrimaryWIndow : Form
 	{
-		DataTypes.ShoppingList currList = new DataTypes.ShoppingList();
-		DataTypes.ShoppingList buyList = new DataTypes.ShoppingList();
+		public DataTypes.ShoppingList currList = new DataTypes.ShoppingList();
+		public DataTypes.ShoppingList buyList = new DataTypes.ShoppingList();
 		string listPath = "";
-		bool printPreview = true;
+		//bool printPreview = true;
 
 		public PrimaryWIndow()
 		{
@@ -40,43 +41,47 @@ namespace Shopping_App
 
 		private void LoadList_Click(object sender, EventArgs e)
 		{
-			OpenFileDialog log = new OpenFileDialog();
-			string filePath = "";
+			#region prior functionality
+			//OpenFileDialog log = new OpenFileDialog();
+			//string filePath = "";
 
-			if (log.ShowDialog() == System.Windows.Forms.DialogResult.OK)
-			{
-				filePath = log.FileName;
+			//if (log.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+			//{
+			//	filePath = log.FileName;
 
-				//Order: Name, price, location, quantity, max quantity
-				StreamReader reader = new StreamReader(filePath);
-				DataTypes.ShoppingList list = new DataTypes.ShoppingList();
+			//	//Order: Name, price, location, quantity, max quantity
+			//	StreamReader reader = new StreamReader(filePath);
+			//	DataTypes.ShoppingList list = new DataTypes.ShoppingList();
 
-				list.SetListName(reader.ReadLine());
+			//	list.SetListName(reader.ReadLine());
 
-				while (!reader.EndOfStream)
-				{
-					DataTypes.ListItem item;
-					string name = "";
-					string location = "";
-					double price = 0;
-					int quantity = 0;
-					int maxQuantity = 0;
+			//	while (!reader.EndOfStream)
+			//	{
+			//		DataTypes.ListItem item;
+			//		string name = "";
+			//		string location = "";
+			//		double price = 0;
+			//		int quantity = 0;
+			//		int maxQuantity = 0;
 
-					name = reader.ReadLine();
-					price = Convert.ToDouble(reader.ReadLine());
-					location = reader.ReadLine();
-					quantity = Convert.ToInt32(reader.ReadLine());
-					maxQuantity = Convert.ToInt32(reader.ReadLine());
+			//		name = reader.ReadLine();
+			//		price = Convert.ToDouble(reader.ReadLine());
+			//		location = reader.ReadLine();
+			//		quantity = Convert.ToInt32(reader.ReadLine());
+			//		maxQuantity = Convert.ToInt32(reader.ReadLine());
 
-					item = new DataTypes.ListItem(name, location, quantity, maxQuantity, (float)price);
-					list.AddItem(item);
-				}
+			//		item = new DataTypes.ListItem(name, location, quantity, maxQuantity, (float)price);
+			//		list.AddItem(item);
+			//	}
 
-				reader.Close();
-				currList = list;
-				FullListBox.Items.Clear();
-				FullListBox.Items.AddRange(currList.GetNameList().ToArray());
-			}
+			//	reader.Close();
+			//	currList = list;
+			//	FullListBox.Items.Clear();
+			//	FullListBox.Items.AddRange(currList.GetNameList().ToArray());
+			//}
+			#endregion
+			Form loadTypeWindow = new LoadType_Window(this);
+			loadTypeWindow.Show();
 		}
 
 		private void BuyListButton_Click(object sender, EventArgs e)

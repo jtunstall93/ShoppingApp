@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Shopping_App
 {
-	class DataTypes
+	public class DataTypes
 	{
 		public enum ItemInfo
 		{

@@ -205,13 +205,13 @@
 		private System.Windows.Forms.Button PrintList;
 		private System.Windows.Forms.Button BuyListButton;
 		private System.Windows.Forms.ListBox BuyListBox;
-		private System.Windows.Forms.ListBox FullListBox;
 		private System.Windows.Forms.RichTextBox FullListItemDetails;
 		private System.Windows.Forms.MonthCalendar monthCalendar1;
 		private System.Windows.Forms.RichTextBox BuyListItemDetails;
 		private System.Windows.Forms.Button EditListButton;
 		private System.Windows.Forms.Button TextListButton;
 		private System.Drawing.Printing.PrintDocument printDocument;
+		public System.Windows.Forms.ListBox FullListBox;
 	}
 }
 

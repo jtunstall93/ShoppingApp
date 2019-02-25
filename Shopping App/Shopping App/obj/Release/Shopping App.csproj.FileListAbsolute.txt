@@ -23,3 +23,30 @@ C:\Users\Jess\source\repos\Shopping App\Shopping App\obj\Release\Shopping App.cs
 C:\Users\Jess\source\repos\Shopping App\Shopping App\obj\Release\Shopping App.csproj.CopyComplete
 C:\Users\Jess\source\repos\Shopping App\Shopping App\obj\Release\Shopping App.exe
 C:\Users\Jess\source\repos\Shopping App\Shopping App\obj\Release\Shopping App.pdb
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\bin\Release\Shopping App.exe.config
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\bin\Release\Shopping App.exe
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\bin\Release\Shopping App.pdb
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\bin\Release\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\bin\Release\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\bin\Release\Newtonsoft.Json.dll
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\bin\Release\RestSharp.dll
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\bin\Release\Twilio.dll
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\bin\Release\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\bin\Release\Newtonsoft.Json.xml
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\bin\Release\RestSharp.xml
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\bin\Release\Twilio.xml
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\obj\Release\Shopping App.csprojAssemblyReference.cache
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\obj\Release\Shopping App.csproj.ResolveComReference.cache
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\obj\Release\Shopping_App.PrimaryWIndow.resources
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\obj\Release\Shopping_App.NewList_Window.resources
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\obj\Release\Shopping_App.EditList_Window.resources
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\obj\Release\Shopping_App.TextMessage_Window.resources
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\obj\Release\Shopping_App.LoadType_Window.resources
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\obj\Release\Shopping_App.Properties.Resources.resources
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\obj\Release\Shopping App.csproj.GenerateResource.cache
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\obj\Release\Shopping App.csproj.CoreCompileInputs.cache
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\obj\Release\Shopping App.csproj.CopyComplete
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\obj\Release\Shopping App.exe
+C:\Users\Jess\Documents\Repositories\ShoppingApp\Shopping App\Shopping App\obj\Release\Shopping App.pdb
